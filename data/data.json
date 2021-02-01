@@ -3,7 +3,7 @@
 	[
 		{
 			"name":"oppo",
-			"image":"../img/Oppo.jpg",
+			"image":"img/Oppo.jpg",
 			"price":18000,
 			"original_price":16000
 		},
